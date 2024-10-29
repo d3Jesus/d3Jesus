@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3jesus" alt="d3jesus" /></a> </p>
 
-- 🔭 I’m currently working on [ars-imaginis](https://github.com/d3Jesus/ars-imaginis)
-
-- 🌱 I’m currently learning **NextJs and TailwindCSS**
-
 - 📝 I regularly write articles on [https://medium.com/@yuran.dejesus](https://medium.com/@yuran.dejesus)
 
 - 💬 Ask me about **C#, .NET**
