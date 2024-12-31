@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3jesus" alt="d3jesus" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@yuran.dejesus](https://medium.com/@yuran.dejesus)
+- 📝 I write articles on [Medium](https://medium.com/@yuran.dejesus)
 
 - 💬 Ask me about **C#, .NET**
 
-- 📫 How to reach me **yuran.dejesus@gmail.com**
+- 📫 See my [portfolio](https://d3jesus.github.io/yurancumbane/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
