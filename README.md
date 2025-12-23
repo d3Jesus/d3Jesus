@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, .NET**
 
-- 📫 See my [portfolio](https://d3jesus.github.io/yurancumbane/)
+- 📫 See my [portfolio](https://www.yurancumbane.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
